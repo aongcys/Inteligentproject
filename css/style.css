@@ -1,0 +1,29 @@
+.mainmachine {
+  background-image: url('https://i.pinimg.com/736x/b5/c0/b6/b5c0b60e0339a65fd3732725c5b8ed54.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.mainmachine:hover {
+  transform: scale(1.005);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.mainnaural {
+  background-image: url('https://i.pinimg.com/736x/0f/ce/2b/0fce2bdb4aed7413fb131bd0506fbd2e.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.mainnaural:hover {
+  transform: scale(1.005);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
